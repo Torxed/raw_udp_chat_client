@@ -1,4 +1,4 @@
-# raw_udp_peer-to-peer,ncurses_chat_client_for_localhost
+# raw_udp_peer-to-peer_ncurses_chat_client_for_localhost
 
 The most useless chat client you'll never need.<br>
 A raw socketed, peer-to-peer, home-brew UDP building, ncurses based - "chat" client..<br>
